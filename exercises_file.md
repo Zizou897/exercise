@@ -1,7 +1,7 @@
 
 exercice 1:
 
-ecrire un programme qui te permet de stocker les 26 lettres de l'alphabet dans une liste
+ecrire un programme qui te permet de stocker les 26 lettres de l'alphabet français dans une liste
 
 
 
